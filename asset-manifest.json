@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/IoanaGeorgia/One_last_beetroot.git/static/css/main.ecca933a.css",
-    "main.js": "/IoanaGeorgia/One_last_beetroot.git/static/js/main.d971f373.js",
-    "static/js/787.fffbf6ce.chunk.js": "/IoanaGeorgia/One_last_beetroot.git/static/js/787.fffbf6ce.chunk.js",
-    "static/media/eye.gif": "/IoanaGeorgia/One_last_beetroot.git/static/media/eye.a63c47c52fb54ed6d200.gif",
-    "static/media/back.gif": "/IoanaGeorgia/One_last_beetroot.git/static/media/back.f0faab778ea44fabc59b.gif",
-    "static/media/water.gif": "/IoanaGeorgia/One_last_beetroot.git/static/media/water.576b4cfbda0eb3b519df.gif",
-    "static/media/const.gif": "/IoanaGeorgia/One_last_beetroot.git/static/media/const.77f5567d142282649aa3.gif",
-    "static/media/green.gif": "/IoanaGeorgia/One_last_beetroot.git/static/media/green.9e66e3d99743f28a78c0.gif",
-    "static/media/heartbeat_fast.gif": "/IoanaGeorgia/One_last_beetroot.git/static/media/heartbeat_fast.819ddc69dc610dfc6fe9.gif",
-    "static/media/butterfly.gif": "/IoanaGeorgia/One_last_beetroot.git/static/media/butterfly.5d45c14613c84fc8ce80.gif",
-    "static/media/mary.png": "/IoanaGeorgia/One_last_beetroot.git/static/media/mary.62b2a8136e937d36cea3.png",
-    "static/media/aaron.png": "/IoanaGeorgia/One_last_beetroot.git/static/media/aaron.add8476371c498390e44.png",
-    "static/media/animoto.ttf": "/IoanaGeorgia/One_last_beetroot.git/static/media/animoto.6a9bfa24e7a4fae9723a.ttf",
-    "static/media/kabasaran.ttf": "/IoanaGeorgia/One_last_beetroot.git/static/media/kabasaran.15686813af027e25bd1d.ttf",
-    "index.html": "/IoanaGeorgia/One_last_beetroot.git/index.html",
-    "main.ecca933a.css.map": "/IoanaGeorgia/One_last_beetroot.git/static/css/main.ecca933a.css.map",
-    "main.d971f373.js.map": "/IoanaGeorgia/One_last_beetroot.git/static/js/main.d971f373.js.map",
-    "787.fffbf6ce.chunk.js.map": "/IoanaGeorgia/One_last_beetroot.git/static/js/787.fffbf6ce.chunk.js.map"
+    "main.css": "/One_last_beetroot/static/css/main.040b39a0.css",
+    "main.js": "/One_last_beetroot/static/js/main.51ee69d2.js",
+    "static/js/787.fffbf6ce.chunk.js": "/One_last_beetroot/static/js/787.fffbf6ce.chunk.js",
+    "static/media/eye.gif": "/One_last_beetroot/static/media/eye.a63c47c52fb54ed6d200.gif",
+    "static/media/back.gif": "/One_last_beetroot/static/media/back.f0faab778ea44fabc59b.gif",
+    "static/media/water.gif": "/One_last_beetroot/static/media/water.576b4cfbda0eb3b519df.gif",
+    "static/media/const.gif": "/One_last_beetroot/static/media/const.77f5567d142282649aa3.gif",
+    "static/media/green.gif": "/One_last_beetroot/static/media/green.9e66e3d99743f28a78c0.gif",
+    "static/media/heartbeat_fast.gif": "/One_last_beetroot/static/media/heartbeat_fast.819ddc69dc610dfc6fe9.gif",
+    "static/media/butterfly.gif": "/One_last_beetroot/static/media/butterfly.5d45c14613c84fc8ce80.gif",
+    "static/media/mary.png": "/One_last_beetroot/static/media/mary.62b2a8136e937d36cea3.png",
+    "static/media/aaron.png": "/One_last_beetroot/static/media/aaron.add8476371c498390e44.png",
+    "static/media/animoto.ttf": "/One_last_beetroot/static/media/animoto.6a9bfa24e7a4fae9723a.ttf",
+    "static/media/kabasaran.ttf": "/One_last_beetroot/static/media/kabasaran.15686813af027e25bd1d.ttf",
+    "index.html": "/One_last_beetroot/index.html",
+    "main.040b39a0.css.map": "/One_last_beetroot/static/css/main.040b39a0.css.map",
+    "main.51ee69d2.js.map": "/One_last_beetroot/static/js/main.51ee69d2.js.map",
+    "787.fffbf6ce.chunk.js.map": "/One_last_beetroot/static/js/787.fffbf6ce.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ecca933a.css",
-    "static/js/main.d971f373.js"
+    "static/css/main.040b39a0.css",
+    "static/js/main.51ee69d2.js"
   ]
 }
